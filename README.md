@@ -11,11 +11,12 @@ How to Play:
 2) Enter your name and select X or O.
 3) Select positions from 1-9 as prompted:
 
-    1 | 2 | 3
-    ---------
-    4 | 5 | 6
-    ---------
-    7 | 8 | 9
+        1 | 2 | 3
+        ---------
+        4 | 5 | 6
+        ---------
+        7 | 8 | 9
+
 4) Play until one player wins or the game end in draw .
 
 
