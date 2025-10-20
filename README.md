@@ -26,7 +26,8 @@ Technologies:
 
 
 Contributing:
-Feel free to fork the repository, suggest improvements, or add new features!
+-Feel free to fork the repository, suggest improvements, or add new features!
+-Who want can do pull request and fork.
 
 Ideas for improvements:
 1) Smarter bot AI
